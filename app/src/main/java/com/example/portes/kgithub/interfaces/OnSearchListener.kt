@@ -1,4 +1,4 @@
-package com.example.portes.kgithub.`interface`
+package com.example.portes.kgithub.interfaces
 
 import com.example.portes.kgithub.pojos.Item
 

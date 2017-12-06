@@ -9,5 +9,5 @@ abstract class OnScrollerListener: RecyclerView.OnScrollListener() {
     companion object {
         val TAG = "OnScrollerListener"
     }
-    
+
 }

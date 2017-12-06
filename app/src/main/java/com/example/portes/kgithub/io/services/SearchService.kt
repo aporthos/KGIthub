@@ -9,7 +9,7 @@ import retrofit2.http.Query
 /**
  * Created by portes on 03/12/17.
  */
-interface Search {
+interface SearchService {
 
     @GET("/search/repositories")
     fun getRepositories(
